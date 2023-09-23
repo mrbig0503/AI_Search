@@ -1,1 +1,28 @@
+Google PaLM 2 是什麼？帶你認識一下這款全面進化的大型語言模型
 https://applealmond.com/posts/185910
+首先 Google PaLM 2 共有 4 種級距，由大到小分別是「Unicorn、Bison、Otter、Gecko」能在不同種類的裝置中運用，其中輕量級別的 Gecko 甚至可以直接在行動裝置上離線使用。
+不過 Google 並沒有透露太多 PaLM 2 的詳細訓練數據，所以我拿這個問題問了一下由 PaLM 2 驅動的 Bard，得到的回覆整理如下：
+ 	PaLM 2 	PaLM
+模型參數	5400 億	5200 億
+
+https://en.wikipedia.org/wiki/PaLM
+In May 2023, Google announced PaLM 2 at the annual Google I/O keynote.[14] PaLM 2 is reported to be a 340 billion parameter model trained on 3.6 trillion tokens.[15]
+In June 2023, Google announced AudioPaLM for speech-to-speech translation, which uses the PaLM-2 architecture and initialization.[16]
+
+https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/
+Google, similar to OpenAI, didn’t provide a lot of the technical details about how it trained this next-gen model, including parameter counts (PaLM 1 is a 540-billion parameter model, for what it’s worth). The only technical details Google provided here are that PaLM 2 was built on top of Google’s latest JAX and TPU v4 infrastructure.
+
+
+https://en.wikipedia.org/wiki/GPT-4
+Sam Altman stated that the cost of training GPT-4 was more than $100 million.[30] News website Semafor claimed that they had spoken with "eight people familiar with the inside story" and found that GPT-4 had 1 trillion parameters.[31]
+Rumors claim that GPT-4 has 1.76 trillion parameters, which was first estimated by the speed it was running and by George Hotz.[12]
+
+
+https://www.cnbeta.com.tw/articles/tech/1359081.htm
+-> 有蠻多PALM2的介紹可以看，Gemini
+
+
+https://www.ml6.eu/blogpost/unlocking-the-power-of-googles-palm-2-harnessing-generative-language-models-for-business-success
+Some insights into pricing
+‍Let's briefly compare the pricing of two models of the same category! To streamline comparison, we have adopted characters as measurement. We can observe that PaLM 2 Text Bison is notably more affordable compared to GPT-4—input is ~7.5 times less expensive, output even ~15 times!
+When comparing OpenAI’s text-embedding-ada-002 and Google’s textembedding-gecko@001, we find that Google is ~4 times more expensive than OpenAI, with $~0.000025 and $0.0001 per 1K characters, respectively.
